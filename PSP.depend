@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hafee\desktop\psp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660583208 source:c:\users\hafee\desktop\psp\untitled1.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
